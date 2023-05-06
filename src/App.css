@@ -26,7 +26,6 @@
   padding-top: 10px;
   overflow: hidden;
   cursor: pointer;
-  width: 200px;
   margin: 5px 0px;
 }
  .flex{
@@ -57,7 +56,6 @@
   overflow: hidden;
   height: fit-content;
   cursor: pointer;
-  height: 150px;
   justify-content: center;
 }
 .productImage > img{
